@@ -14,3 +14,8 @@ I would make my diagrams more colorful, just because I feel like it would be eas
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
+In my diagram, I made sure all contingencies were accounted for regarding users. It's important to consider the user since they're going to using your prodcut the most and want to see value in it.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+When designing software, it is important to design the UI and functionality so that a user can easily understand how to use the product and even like your product from said design choices! A strategy that I would use is to look at other apps to get an idea and expand upon it to make your prodcy catch the eyes of potential users!
